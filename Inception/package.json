@@ -1,0 +1,28 @@
+{
+  "name": "inception",
+  "version": "1.0.0",
+  "description": "This is practice app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aksh257/react-learing.git"
+  },
+  "author": "Akshay Arora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aksh257/react-learing/issues"
+  },
+  "homepage": "https://github.com/aksh257/react-learing#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":["last 2 versions"]
+}
